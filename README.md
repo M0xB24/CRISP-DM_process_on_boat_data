@@ -10,7 +10,7 @@
 - Since I'm interested in purchasing a boat at the lake of constance, I am interested in the gerneal trend for boats in Germany as well as the trend at the lake of constance and where to buy them at a good rate.
 - In the project I will answer to the following three questions
 	- What are the three most offered engine boats in Germany and what specifications do these boats have?
-	- What sells best ate the Bodensee (lake of constance)?
+	- What sells best at the Bodensee (lake of constance)?
 	- Where are these boats cheapest to buy in Germany?
 
 ### Files in the repository
